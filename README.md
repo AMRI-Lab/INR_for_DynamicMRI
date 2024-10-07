@@ -39,7 +39,7 @@ python3 main_temporal_interp.py -g 0 -s 34 -r -m
 ```
 
 The rest of the parameters can be easily changed by adding arguments to the parser. 
-The detailed definition of the arguments can be found by
+The detailed definitions of the arguments can be found by: 
 ```python
 python3 main.py -h
 ```
